@@ -1,5 +1,5 @@
 CC=gcc
-CFLAGS=-Iinclude -Wall -O2 -fsanitize=address
+CFLAGS=-Iinclude -Wall -O2
 
 SRC=$(wildcard src/*.c)
 
