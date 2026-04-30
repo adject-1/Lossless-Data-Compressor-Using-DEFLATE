@@ -1,6 +1,7 @@
 # Ignore generated files
 *.txt
 *.cmp
+*.json
 
 # Ignore folders
 build/
